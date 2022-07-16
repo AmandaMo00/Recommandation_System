@@ -1,6 +1,6 @@
 # Recommandation_System
 
-Aiming to create a recommandation system for a food-ordering applications:
+Aiming to create a recommandation system for a food-ordering applications:  
 means: 
 Classify customers by their ratings, preferences, social connections... by groups
 Project the food ads for the same group of customers once they open the app
